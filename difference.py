@@ -1,0 +1,5 @@
+x = int(input())
+y = int(input())
+z = int(input())
+d = int(input())
+print(f"Difference = {x*y - z*d}")
