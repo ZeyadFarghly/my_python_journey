@@ -1,0 +1,1 @@
+walk.count('s')
