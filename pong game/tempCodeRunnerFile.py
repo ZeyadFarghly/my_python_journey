@@ -1,0 +1,1 @@
+scoreboard.update_score(ball.reset())
